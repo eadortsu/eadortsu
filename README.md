@@ -1,5 +1,3 @@
-![eadortsu](https://avatars.githubusercontent.com/u/40460447?v=4)
-
 # Hi there, I'm Eugene Adortsu! 👋
 
 Welcome to my GitHub profile. I am a seasoned Software Engineer with a strong background in backend, full-stack development, and cybersecurity. My journey as a tech entrepreneur and founder has equipped me with the skills to lead and innovate in the tech industry. Here’s a bit about me and what I do:
